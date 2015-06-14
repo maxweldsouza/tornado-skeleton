@@ -7,3 +7,4 @@ passwd = 'password'
 db = 'databasename'
 
 port = 8000
+ssl = True
